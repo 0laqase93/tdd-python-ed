@@ -5,7 +5,7 @@ import pytest
 from ejercicios.operaciones import multiplicacion
 
 # Clase para crear tests. Las funciones de testeo deberán crearse en esta clase
-class MultiplicacionTestClass:
+class TestClass:
 
     # Test para la operación suma
     def test_multiplicacion(self):

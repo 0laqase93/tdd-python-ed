@@ -5,7 +5,7 @@ import pytest
 from ejercicios.operaciones import resta
 
 # Clase para crear tests. Las funciones de testeo deberán crearse en esta clase
-class RestaTestClass:
+class TestClass:
 
     # Test para la operación suma
     def test_resta(self):
